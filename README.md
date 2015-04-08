@@ -1,10 +1,10 @@
-# zz-gripper
+# ZZ-Gripper v1.0
 
 ####Introdução: ####
 Feita no laboratório de sistemas autÔnomos da FACIN na PUCRS.
 Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-place_ em conjunto com o robo Turtlebot.
 
-!zz-gripper(https://lh4.googleusercontent.com/biaTQ-ANJ-xpAVSd2z3Hfe8eFyOYTg7qxFD6WKXKruUtZFoB4kNFSQD82IdgUlgdLWYtPX-U85k3HoA=w1293-h561)
+![zz-gripper](https://lh4.googleusercontent.com/biaTQ-ANJ-xpAVSd2z3Hfe8eFyOYTg7qxFD6WKXKruUtZFoB4kNFSQD82IdgUlgdLWYtPX-U85k3HoA=w1293-h561)
 
 ####Especificações:####
 + Microcontrolador: Arduino nano
