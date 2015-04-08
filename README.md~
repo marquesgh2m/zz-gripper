@@ -1,7 +1,7 @@
 # ZZ-Gripper v1.0
 
 ####Introdução: ####
-Feita no laboratório de sistemas autÔnomos da FACIN na PUCRS.
+Feita no laboratório de sistemas autônomos, [LSA](https://www.inf.pucrs.br/felipe.meneguzzi/lsa/), da FACIN na PUCRS.
 Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-place_ em conjunto com o robo Turtlebot.
 
 ![zz-gripper](https://lh4.googleusercontent.com/biaTQ-ANJ-xpAVSd2z3Hfe8eFyOYTg7qxFD6WKXKruUtZFoB4kNFSQD82IdgUlgdLWYtPX-U85k3HoA=w1293-h561)
@@ -21,11 +21,11 @@ Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-pla
 
 
 ####TO-DO_List:####
-[] Manual ZZ-Gripper v1.0
-[] Teste funcional por ssh (sem alimentação externa)
-[x] Projeto Solidworks
-[x] Driver exemplo ROS
-[x] Esquema elétrico da placa de controle
+- [ ] Manual ZZ-Gripper v1.0
+- [ ] Teste funcional por ssh (sem alimentação externa)
+- [x] Projeto Solidworks
+- [x] Driver exemplo ROS
+- [x] Esquema elétrico da placa de controle
 
 
 

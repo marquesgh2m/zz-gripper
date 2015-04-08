@@ -21,8 +21,8 @@ Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-pla
 
 
 ####TO-DO_List:####
-- [] Manual ZZ-Gripper v1.0
-- [] Teste funcional por ssh (sem alimentação externa)
+- [ ] Manual ZZ-Gripper v1.0
+- [ ] Teste funcional por ssh (sem alimentação externa)
 - [x] Projeto Solidworks
 - [x] Driver exemplo ROS
 - [x] Esquema elétrico da placa de controle
