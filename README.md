@@ -4,7 +4,9 @@
 Feita no laboratório de sistemas autônomos, [LSA](https://www.inf.pucrs.br/felipe.meneguzzi/lsa/), da FACIN na PUCRS.
 Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-place_ em conjunto com o robo Turtlebot.
 
-![zz-gripper](https://lh4.googleusercontent.com/biaTQ-ANJ-xpAVSd2z3Hfe8eFyOYTg7qxFD6WKXKruUtZFoB4kNFSQD82IdgUlgdLWYtPX-U85k3HoA=w1293-h561)
+<p align="center">
+<img src="resources/zz-gripper-turtle.jpg" width="70%">
+</p>  
 
 ####Especificações:####
 + Microcontrolador: Arduino nano
