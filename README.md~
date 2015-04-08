@@ -1,0 +1,20 @@
+# zz-gripper
+
+####Introdução: ####
+Feita no laboratório de sistemas autÔnomos da FACIN na PUCRS.
+Esta gripper foi desenvolvida no laboratório visando aplicações _pick-and-place_ em conjunto com o robo Turtlebot.
+
+
+####Especificações:####
+Microcontrolador: Arduino nano
+Driver: TB6612-Dual Motor Driver
+Atuadores: 2 Graus de liberdade
+Sensores: Sensor de força, sensor ultrasonico, sensor de corrente, chave fim de curso.
+Peso (partes plasticas): ?
+Peso total: ?
+Custo total: ?
+Tempo para construção: ?
+Dimenções: ?
+Força aplicada a objeto: ~500g
+Peso máximo de sustentação: ~700g
+
